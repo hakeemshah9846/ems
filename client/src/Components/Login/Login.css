@@ -1,0 +1,9 @@
+.form-container {
+    max-width: 350px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
